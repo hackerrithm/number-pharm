@@ -1,0 +1,29 @@
+{
+  "name": "number-pharm",
+  "version": "0.1.0",
+  "description": "a test npm package",
+  "main": "yes",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackerrithm/number-pharm.git"
+  },
+  "keywords": [
+    "number"
+  ],
+  "author": "“Kemar <“reactamv@gmail.com”> (http://www.reacthead.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackerrithm/number-pharm/issues"
+  },
+  "homepage": "https://github.com/hackerrithm/number-pharm#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
