@@ -1,6 +1,6 @@
 {
   "name": "number-pharm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a test npm package",
   "main": "yes",
   "scripts": {
